@@ -1,7 +1,28 @@
-# WASSUP4
-ESTsoft AI서비스기획 전문가 양성 부트캠프 4기 
+# 정지현의 이력서
+
+## URL
+업데이트예정<BR>
+업데이트예정
+
+## Notion
+* 업데이트예정(주소)
 
 
-# add test
+## Github
+* 업데이트예정(주소)
 
-### pull test
+## About Me
+* 업데이트 예정
+
+## Work Experience
+* 업데이트 예정
+* 업데이트 예정
+
+
+## Skill
+> 사용해봤던 기술 목록 입니다.
+
+
+
+
+* ### BackEnd
